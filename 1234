@@ -1,96 +1,66 @@
-import React, { Component } from 'react';
-import GoogleMapReact from 'google-map-react';
-//import logo from './logo.svg';
-import './App.css';
-import Flat from './flat';
-import Marker from './marker';
-
-class App extends Component {
-  constructor (props) {
-    super(props);
-    this.state = {
-      flats: [],
-      allFlats: [],
-      selectedFlat: null,
-      search: ""
-    };
+[
+  {
+    "id": 145,
+    "name": "  Halo halo de iloko ",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/1.jpg",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
+  {
+    "id": 148,
+    "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/3.jpg",
+    "priceCurrency": "₱",
+    "price": 50,
+    "lat": 16.8472,
+    "lng": 120.3517
+  },
+  {
+    "id": 205,
+    "name": "Marand Resort.",
+    "name": "Description may pool po.",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
+    "priceCurrency": "₱",
+    "price": 150,
+    "lat": 16.5264,
+    "lng": 120.3294
+  },
+  {
+    "id": 210,
+    "name": "Splash Wave Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 211,
+    "name": "Kahuna Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/6.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.6583,
+    "lng": 120.3216
+  },
+    {
+    "id": 211,
+    "name": "House koooooooooooo",
+    "imageUrl": "https://i.ytimg.com/vi/SR_qqU9oozw/maxresdefault.jpg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.617139,
+    "lng": 120.322961
   }
-
-  componentDidMount() {
-    const url = "https://raw.githubusercontent.com/sLrK123/repos/master/123";
-    fetch(url)
-      .then(response => response.json())
-      .then((data) => {
-        this.setState({
-          flats: data,
-          allFlats: data
-        });
-      })
-  }
-
-  selectFlat = (flat) => {
-    console.log(flat);
-    this.setState({
-      selectedFlat: flat
-    })
-  }
-
-  handleSearch = (event) => {
-    this.setState({
-      search: event.target.value,
-      flats: this.state.allFlats.filter((flat) => new RegExp(event.target.value, "i").exec(flat.name))
-    });
-  }
-
-  render() {
-    let center = {
-      lat: 16.615982,
-      lng: 120.3167
-    }
-
-    if (this.state.selectedFlat) {
-      center = {
-        lat: this.state.selectedFlat.lat,
-        lng: this.state.selectedFlat.lng
-      }
-    }
-
-    return (
-      <div className = "app">
-        <div className = "main">
-          <div className = "search">
-            <input type = "text"
-            placeholder = "Search.."
-            value = {this.state.search}
-            onChange = {this.handleSearch} />
-          </div>
-          <div className = "flats">
-            {this.state.flats.map((flat) => {
-              return <Flat key = {flat.name}
-                           flat = {flat}
-                           selectFlat = {this.selectFlat} />
-            })}
-          </div>
-        </div>
-        <div className = "map">
-          <GoogleMapReact
-            center = {center}
-            zoom = {11}
-          >
-            {this.state.flats.map((flat) => {
-              return <Marker
-              key = {flat.name}
-              lat = {flat.lat}
-              lng = {flat.lng}
-              text = {flat.name}
-              price = {flat.price}
-              selected = {flat === this.state.selectedFlat} />
-            })}
-          </GoogleMapReact>
-        </div>
-      </div>
-    );
-  }
-}
-
-export default App;
+]
