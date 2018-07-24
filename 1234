@@ -19,48 +19,47 @@
   },
   {
     "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/3.jpg",
+    "name": "Kahuna Beach Resort",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/9e/f4/kahuna-beach-resort-and.jpg",
     "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.8472,
-    "lng": 120.3517
+    "price": 25550,
+    "lat": 16.6583,
+    "lng": 120.3217
   },
   {
     "id": 205,
-    "name": "Marand Resort.",
-    "name": "Description may pool po.",
+    "name": "Pugad Resort",
     "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
     "priceCurrency": "₱",
-    "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "price": 1150,
+    "lat": 16.3367,
+    "lng": 120.4788
   },
   {
     "id": 210,
     "name": "Splash Wave Resort",
     "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
     "priceCurrency": "PHP",
-    "price": 150,
+    "price": 2150,
     "lat": 16.3188,
     "lng": 120.4687
   },
   {
     "id": 211,
-    "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/6.jpg",
+    "name": "Tangadan Falls",
+    "imageUrl": "http://4.bp.blogspot.com/-FG6o-2yj5T0/VjnZJM-bMVI/AAAAAAAALuE/zfX2bKU1rO0/s1600/GOPR8776_1446335134198_high.JPG",
     "priceCurrency": "₱",
-    "price": 200,
-    "lat": 16.6583,
-    "lng": 120.3216
+    "price": 500,
+    "lat": 16.6436,
+    "lng": 120.4488
   },
     {
     "id": 211,
-    "name": "House koooooooooooo",
-    "imageUrl": "https://i.ytimg.com/vi/SR_qqU9oozw/maxresdefault.jpg",
+    "name": "My house",
+    "imageUrl": "http://www.culturesum.com/Img_Attractions/Philippines/Malacanang_palace_view.jpg",
     "priceCurrency": "₱",
-    "price": 0,
-    "lat": 16.617139,
-    "lng": 120.322961
+    "price": 10000000000,
+    "lat": 14.5946,
+    "lng": 120.9946
   }
 ]
