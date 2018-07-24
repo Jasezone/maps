@@ -1,14 +1,5 @@
 [
   {
-    "id": 145,
-    "name": "Macho Temple",
-    "imageUrl": "https://github.com/Jasezone/finals/blob/master/1.JPG",
-    "price": ,
-    "priceCurrency": "Php",
-    "lat": 16.621164,
-    "lng": 120.317480
-  },
-  {
     "id": 148,
     "name": "Trendy Apt in Buttes Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
