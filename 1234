@@ -4,62 +4,62 @@
     "name": "  Boracay Island ",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
     "priceCurrency": 715,
-    "price": "Km away from home",
+    "price": " Km away from home",
     "lat": 11.9674,
     "lng": 121.9248
   },
   {
     "id": 148,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
-    "priceCurrency": "₱",
-    "price": 200,
-    "lat": 16.588121,
-    "lng": 120.314585
+    "name": "Lapu-Lapu Shrine",
+    "imageUrl": "https://baihotels.com/wp-content/uploads/2017/01/Mactan-Shrine.jpg",
+    "priceCurrency": 1127.3,
+    "price": " Km away from home",
+    "lat": 10.3110,
+    "lng": 124.0148
   },
   {
     "id": 201,
-    "name": "Kahuna Beach Resort",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/9e/f4/kahuna-beach-resort-and.jpg",
-    "priceCurrency": "₱",
-    "price": 25550,
-    "lat": 16.6583,
-    "lng": 120.3217
+    "name": "Panglao Island",
+    "imageUrl": "https://thumbs.dreamstime.com/b/alona-beach-panglao-island-phillipines-one-most-famous-beaches-philippines-33359928.jpg",
+    "priceCurrency": 1232.3,
+    "price": " Km away from home",
+    "lat": 9.5874,
+    "lng": 123.8076
   },
   {
     "id": 205,
-    "name": "Pugad Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
-    "priceCurrency": "₱",
-    "price": 1150,
-    "lat": 16.3367,
-    "lng": 120.4788
+    "name": "Puerto Princesa Subterranean River",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Underground_River_in_Puerto_Princesa%2C_Palawan_15.JPG",
+    "priceCurrency": 1080.8,
+    "price": " Km away from home",
+    "lat": 10.1926,
+    "lng": 118.9266
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
-    "priceCurrency": "PHP",
-    "price": 2150,
-    "lat": 16.3188,
-    "lng": 120.4687
+    "name": "Siargao Island",
+    "imageUrl": "https://www.journeyera.com/wp-content/uploads/2018/01/things-to-do-in-siargao-island-philippines-0165227.jpg",
+    "priceCurrency": 972,
+    "price": " Km away from home",
+    "lat": 9.8482,
+    "lng": 126.0458
   },
   {
     "id": 211,
-    "name": "Tangadan Falls",
-    "imageUrl": "http://4.bp.blogspot.com/-FG6o-2yj5T0/VjnZJM-bMVI/AAAAAAAALuE/zfX2bKU1rO0/s1600/GOPR8776_1446335134198_high.JPG",
-    "priceCurrency": "₱",
-    "price": 500,
-    "lat": 16.6436,
-    "lng": 120.4488
+    "name": "Rizal Park",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Rizal_Park_Facing_Quirino_Grandstand.jpg",
+    "priceCurrency": 271.8,
+    "price": " Km away from home",
+    "lat": 14.5831,
+    "lng": 120.9794
   },
     {
     "id": 211,
-    "name": "My house",
-    "imageUrl": "http://www.culturesum.com/Img_Attractions/Philippines/Malacanang_palace_view.jpg",
+    "name": "Taal Volcano",
+    "imageUrl": "http://www.wipr.pr/wp-content/uploads/2017/01/isla-triple.jpg",
     "priceCurrency": "₱",
     "price": 10000000000,
-    "lat": 14.5946,
-    "lng": 120.9946
+    "lat": 14.0113,
+    "lng": 120.9977
   }
 ]
