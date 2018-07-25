@@ -3,8 +3,8 @@
     "id": 145,
     "name": "  Boracay Island ",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
-    "priceCurrency": "Km",
-    "price": 715,
+    "priceCurrency": 715,
+    "price": "Km away from home",
     "lat": 11.9674,
     "lng": 121.9248
   },
