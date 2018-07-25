@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "  Macho Temple ",
-    "imageUrl": "https://farm8.staticflickr.com/7051/6818129848_ef5c368925.jpg",
-    "priceCurrency": "₱",
-    "price": 120,
-    "lat": 16.6212,
-    "lng": 120.3175
+    "name": "  Boracay Island ",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Boracay_Island%2C_Philippines_-_panoramio.jpg",
+    "priceCurrency": "Km",
+    "price": 715,
+    "lat": 11.9674,
+    "lng": 121.9248
   },
   {
     "id": 148,
