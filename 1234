@@ -115,6 +115,33 @@
     "price": " Km away from home",
     "lat": 16.6720,
     "lng": 120.3628
+  },
+  {
+    "id": 906,
+    "name": "Baluarte Ilocos Sur",
+    "imageUrl": "https://i0.wp.com/www.appetizingadventure.com/wp-content/uploads/2016/07/Baluarte-Ilocos-Sur-091-2.jpg",
+    "priceCurrency": 87.4,
+    "price": " Km away from home",
+    "lat": 17.1018,
+    "lng": 120.5538
+  },
+  {
+    "id": 907,
+    "name": "Bangui Windmill",
+    "imageUrl": "https://i0.wp.com/www.appetizingadventure.com/wp-content/uploads/2016/07/Baluarte-Ilocos-Sur-091-2.jpg",
+    "priceCurrency": 277.7,
+    "price": " Km away from home",
+    "lat": 18.5875,
+    "lng": 120.8221
+  },
+  {
+    "id": 908,
+    "name": "Home",
+    "imageUrl": "https://peopledotcom.files.wordpress.com/2017/01/01.jpg",
+    "priceCurrency": 0,
+    "price": " Km away from home",
+    "lat": 16.607937,
+    "lng": 120.346394
   }
   
 ]
