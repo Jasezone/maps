@@ -138,7 +138,7 @@
     "id": 908,
     "name": "Home",
     "imageUrl": "https://peopledotcom.files.wordpress.com/2017/01/01.jpg",
-    "priceCurrency": This is,
+    "priceCurrency": "This is",
     "price": " my home",
     "lat": 16.607937,
     "lng": 120.346394
