@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Lapu-Lapu Shrine",
     "imageUrl": "https://baihotels.com/wp-content/uploads/2017/01/Mactan-Shrine.jpg",
-    "priceCurrency": 1127.3,
+    "priceCurrency": 1,127.3,
     "price": " Km away from home",
     "lat": 10.3110,
     "lng": 124.0148
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Panglao Island",
     "imageUrl": "https://thumbs.dreamstime.com/b/alona-beach-panglao-island-phillipines-one-most-famous-beaches-philippines-33359928.jpg",
-    "priceCurrency": 1232.3,
+    "priceCurrency": 1,232.3,
     "price": " Km away from home",
     "lat": 9.5874,
     "lng": 123.8076
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Puerto Princesa Subterranean River",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Underground_River_in_Puerto_Princesa%2C_Palawan_15.JPG",
-    "priceCurrency": 1080.8,
+    "priceCurrency": 1,080.8,
     "price": " Km away from home",
     "lat": 10.1926,
     "lng": 118.9266
@@ -57,9 +57,55 @@
     "id": 211,
     "name": "Taal Volcano",
     "imageUrl": "http://www.wipr.pr/wp-content/uploads/2017/01/isla-triple.jpg",
-    "priceCurrency": "₱",
-    "price": 10000000000,
+    "priceCurrency": 297,
+    "price": " Km away from home",
     "lat": 14.0113,
     "lng": 120.9977
-  }
+  },
+  {
+    "id": 900,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/LongshengRiceTerrace.jpg/1200px-LongshengRiceTerrace.jpg",
+    "priceCurrency": 212.2,
+    "price": " Km away from home",
+    "lat": 16.9240,
+    "lng": 121.0556
+  },
+  {
+    "id": 901,
+    "name": "Mt. Pulag",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ph_mtpulag.jpg",
+    "priceCurrency": 132,
+    "price": " Km away from home",
+    "lat": 16.5975,
+    "lng": 120.8992
+  },
+    {
+    "id": 902,
+    "name": "Enchanted Kingdom",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Enchanted_kingdom_entrance.jpg",
+    "priceCurrency": 314.3,
+    "price": " Km away from home",
+    "lat": 14.2822,
+    "lng": 121.0967
+  },
+  {
+    "id": 903,
+    "name": "Paoay church",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/St._Agustine_Paoay_Church_02.jpg/1200px-St._Agustine_Paoay_Church_02.jpg",
+    "priceCurrency": 200.8,
+    "price": " Km away from home",
+    "lat": 18.0616,
+    "lng": 120.5215
+  },
+  {
+    "id": 904,
+    "name": "Mines View Park",
+    "imageUrl": "https://i2.wp.com/myguide.ph/wp-content/uploads/myguide-minesviewpark.jpg",
+    "priceCurrency": 67.2,
+    "price": " Km away from home",
+    "lat": 16.4196,
+    "lng": 120.6279
+  },
+  
 ]
